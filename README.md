@@ -1,2 +1,2 @@
 # AJR-reselusi
-Repositori untuk menyimpan rencana masa depan
+Repositori untuk menyimpan Rencana Masa Depan
